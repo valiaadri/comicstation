@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/entitas/Komik.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormLoginAdmin.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormLoginPelanggan.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormSignUp.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/entitas/Transaksi.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/interfaces/InterTransaksi.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/interfaces/InterPelanggan.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormBerandaAdmin.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormTransaksiPelanggan.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/interfaces/InterAdmin.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FromTransaksiAdmin.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormDaftarKomik.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormDataPelanggan.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormUbahDF.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/interfaces/InterKomikData.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/abstracts/DaftarKomik.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/ComicStation.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/abstracts/user.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/entitas/Admin.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/entitas/Pelanggan.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormDataAdmin.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormLaporanTransaksi.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/abstracts/DaftarTransaksi.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/db_comic/koneksi_db.java</file>
+            <file>file:/D:/SEMESTER%205/PBO/praktikum%20pbo/Tubes%20PBO/comic%20station/src/comic/station/form/FormBerandaPelanggan.java</file>
+        </group>
+    </open-files>
+</project-private>
